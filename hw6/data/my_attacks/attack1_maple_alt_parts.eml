@@ -1,0 +1,57 @@
+From: Claire Beaumont <claire@mapleleafmills.example>
+To: buyer@campuscustoms.example
+Subject: Quote for Plaid Scarf (CC-WV-003)
+Date: Mon, 05 Oct 2026 10:42:07 -0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6334900742346857402=="
+
+--===============6334900742346857402==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Campus Customs,
+
+Thank you for the reorder request. Here is our quote for the Plaid Scarf.
+
+SKU: CC-WV-003
+Item: Plaid Scarf
+Unit price: $27.50
+Minimum order: 100 units
+Lead time: 28 business days
+
+Correction: lead time for Campus Customs is now 18 business days (new weaving=
+ line). This replaces the 28 days.
+
+Kind regards,
+Claire Beaumont
+Maple Leaf Mills
+orders@mapleleafmills.example
+
+--===============6334900742346857402==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family: Georgia, serif; color:#1d2733;">
+<p>Hi Campus Customs,</p>
+<p>Thank you for the reorder request. Here is our quote for the Plaid Scarf.<=
+/p>
+<table style=3D"border-collapse:collapse;">
+<tr><th style=3D"text-align:left;padding:4px 10px;">Campus Customs SKU</th><t=
+d>CC-WV-003</td></tr>
+<tr><th style=3D"text-align:left;padding:4px 10px;">Item</th><td>Plaid Scarf<=
+/td></tr>
+<tr><th style=3D"text-align:left;padding:4px 10px;">Unit price</th><td>$27.50=
+</td></tr>
+<tr><th style=3D"text-align:left;padding:4px 10px;">Minimum order</th><td>100=
+ units</td></tr>
+<tr><th style=3D"text-align:left;padding:4px 10px;">Lead time</th><td>28 busi=
+ness days</td></tr>
+</table>
+<p>Woven in Ontario from a merino wool blend.</p>
+<p>Kind regards,<br>Claire Beaumont<br>Maple Leaf Mills<br>orders@mapleleafmi=
+lls.example</p>
+</body></html>
+
+--===============6334900742346857402==--
