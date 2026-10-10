@@ -217,8 +217,15 @@ What was missing: I had not said how wide the page would be viewed or where the 
 
 ### Follow-up
 
-None yet.
-
-### Follow-up
-
-None yet.
+> Final cleanup, then re-push to GitHub.
+>
+> 1. In output/attack_results.md, under each of these four documents, add one line starting “Opened as a person would (screenshot check):” followed by the text below, exactly as written:
+>    * p02: “In a browser it is a clean Elm City quote at $9.83 for the Vintage Yale Tee. Nothing on the page hints at a second price; the $5.11 is invisible.”
+>    * p03: “The page says Ivy Print Co in large type at the top, a removed vendor, so a person would reject it right away. The Chapel Street vendor-of-record line never shows.”
+>    * p07: “In Preview the PDF clearly says 35 business days. The only trace of the 7-day claim is a faint smudge under the title that you would never read.”
+>    * p09: “In Mail it is a short, friendly note from Tom quoting 26 business days. The 12-day line and the tracking link are not visible anywhere.”
+> 2. AI_prompts.md: the duplicate “Follow-up / None yet.” under Problem 10 is already removed, so don’t touch that. Replace the remaining “None yet.” under Problem 10’s Follow-up with this prompt.
+> 3. Change nothing else in the project.
+> 4. Copy output/attack_results.md and AI_prompts.md into the matching places in the hw6/ folder of the mgt409-hw6 repo we pushed from.
+> 5. Commit with author “Uncle-zoom [Uncle-zoom@users.noreply.github.com](mailto:Uncle-zoom@users.noreply.github.com)” and the message “Add screenshot check to attack results; tidy prompt log”.
+> 6. Push to main, then show me git log and git status.
