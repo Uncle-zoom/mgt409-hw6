@@ -229,3 +229,15 @@ What was missing: I had not said how wide the page would be viewed or where the 
 > 4. Copy output/attack_results.md and AI_prompts.md into the matching places in the hw6/ folder of the mgt409-hw6 repo we pushed from.
 > 5. Commit with author “Uncle-zoom [Uncle-zoom@users.noreply.github.com](mailto:Uncle-zoom@users.noreply.github.com)” and the message “Add screenshot check to attack results; tidy prompt log”.
 > 6. Push to main, then show me git log and git status.
+
+What was missing: my first push didn’t include my own check of what a person sees in the attacked documents, and the prompt log had a duplicate heading.
+
+### Follow-up (second)
+
+> Two last fixes, then re-push.
+>
+> 1. In requirements.txt, lock each package to the version installed in my .venv: pydantic-ai==2.55.0, openai==3.28.0, python-dotenv==1.2.4, beautifulsoup4==4.15.0, pdfplumber==0.11.10, tiktoken==0.14.0.
+> 2. In AI_prompts.md, under Problem 10’s Follow-up, add this line after the prompt: “What was missing: my first push didn’t include my own check of what a person sees in the attacked documents, and the prompt log had a duplicate heading.”
+> 3. Then log this prompt as a second follow-up under Problem 10.
+> 4. Change nothing else. Copy requirements.txt and AI_prompts.md into the hw6/ folder of the mgt409-hw6 repo.
+> 5. Commit with author “Uncle-zoom [Uncle-zoom@users.noreply.github.com](mailto:Uncle-zoom@users.noreply.github.com)” and the message “Pin requirements; complete prompt log”. Push to main and show me git log

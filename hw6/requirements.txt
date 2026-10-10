@@ -1,6 +1,6 @@
-pydantic-ai
-openai
-python-dotenv
-beautifulsoup4
-pdfplumber
-tiktoken
+pydantic-ai==2.55.0
+openai==3.28.0
+python-dotenv==1.2.4
+beautifulsoup4==4.15.0
+pdfplumber==0.11.10
+tiktoken==0.14.0
